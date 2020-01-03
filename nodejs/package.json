@@ -1,0 +1,17 @@
+{
+  "name": "sinau",
+  "version": "1.0.0",
+  "description": "sinau node",
+  "main": "index.js",
+  "scripts": {
+    "test"    : "echo \"Error: no test specified\" && exit 1",
+    "hello"   : "node hello.js",
+    "server"  : "node server.js"
+  },
+  "keywords": [
+    "sinau",
+    "nodejs"
+  ],
+  "author": "hxbe",
+  "license": "ISC"
+}
